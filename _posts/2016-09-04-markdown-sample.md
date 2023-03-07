@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown sample"
+title:  "Markdown example"
 date:   2016-09-04
 ---
 
